@@ -1,0 +1,179 @@
+---
+- :name: Admin
+  :userid: admin
+  :password: Asdasd123
+  :group: Admin
+  :email: 1@gmail.com
+  :status: true
+  :password_expiration: 2022-01-01
+  :phone_number: 0123456789
+
+- :name: VM Admin
+  :userid: vmadmin
+  :password: Asdasd123
+  :group: VM Admin
+  :email: 13@gmail.com
+  :status: true
+  :password_expiration: 2022-01-01
+  :phone_number: 0123456789
+
+- :name: VM User
+  :userid: vmuser
+  :password: Asdasd123
+  :group: VM User
+  :email: 4@gmail.com
+  :status: true
+  :password_expiration: 2022-01-01
+  :phone_number: 0123456789
+
+#- :name: Admin
+#  :userid: admin
+#  :password: Asdasd123
+#  :group: EvmGroup-administrator
+#  :email: 2@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name: User
+#  :userid: user
+#  :password: Asdasd123
+#  :group: EvmGroup-user
+#  :email: 3@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name: Operator
+#  :userid: operator
+#  :password: Asdasd123
+#  :group: EvmGroup-operator
+#  :email: 5@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name: Approver
+#  :userid: approver
+#  :password: Asdasd123
+#  :group: EvmGroup-approver
+#  :email: 6@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name: Auditor
+#  :userid: auditor
+#  :password: Asdasd123
+#  :group: EvmGroup-auditor
+#  :email: 7@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Support
+#  :userid: support
+#  :password: Asdasd123
+#  :group: EvmGroup-support
+#  :email: 8@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Security
+#  :userid: security
+#  :password: Asdasd123
+#  :group: EvmGroup-security
+#  :email: 9@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Desktop
+#  :userid: desktop
+#  :password: Asdasd123
+#  :group: EvmGroup-desktop
+#  :email: 10@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: User Self Service
+#  :userid: userselfservice
+#  :password: Asdasd123
+#  :group: EvmGroup-user_self_service
+#  :email: 11@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: User Limited Self Service
+#  :userid: userlimitedselfservice
+#  :password: Asdasd123
+#  :group: EvmGroup-user_limited_self_service
+#  :email: 12@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name: Tenant Quota Admin
+#  :userid: tenantquotaadmin
+#  :password: Asdasd123
+#  :group: EvmGroup-tenant_quota_administrator
+#  :email: 14@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Consumption Admin
+#  :userid: consumptionadmin
+#  :password: Asdasd123
+#  :group: EvmGroup-consumption_administrator
+#  :email: 15@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Container Admin
+#  :userid: containeradmin
+#  :password: Asdasd123
+#  :group: EvmGroup-container_administrator
+#  :email: 16@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Container Operator
+#  :userid: containeroperator
+#  :password: Asdasd123
+#  :group: EvmGroup-container_operator
+#  :email: 17@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Reader
+#  :userid: reader
+#  :password: Asdasd123
+#  :group: EvmGroup-reader
+#  :email: 18@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+#
+#- :name: Physical Infrastructure
+#  :userid: physinfra
+#  :password: Asdasd123
+#  :group: EvmGroup-physical_infrastructure
+#  :email: 19@gmail.com
+#  :status: true
+#  :password_expiration: 2022-01-01
+#  :phone_number: 0123456789
+
+#- :name:
+#  :userid:
+#  :password:
+#  :group:
+#  :email:
+#  :status: true
+#  :password_expiration: 2022-01-01

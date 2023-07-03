@@ -1,0 +1,13 @@
+zh-CN:
+  product:
+    name: FPT VDS
+    name_full: FPT Telecom Virtual Datacenter Service
+    copyright: "Copyright (c) 2020 ManageIQ。由红帽赞助。"
+
+  # Used in NumberHelper.number_to_human_size() and NumberHelper.number_to_human()
+  number:
+    human:
+      storage_units:
+        units:
+          pb: "PB"
+          eb: "EB"
